@@ -1,7 +1,7 @@
 <h1 align="center">
 Hi, I'm Nishant!</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20eager%20to%20learn%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
 <img align="left" src="https://i.pinimg.com/originals/2a/94/68/2a94684a1d9c27846f5a1eee7d67573e.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
