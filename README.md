@@ -10,12 +10,12 @@ Hi, I'm Nishant!</h1>
 ```
 I-am-Nishant
 -------------------------
-💻 I am a Web Developer and a Learner.
+💻 I am a Data Analyst and a Flutter Developer and a Learner.
 📚 I am currently pursuing Bachelors in Computer Science from the MRCET.
 📝 I have a strong interest in Data Science and Artificial Intelligence.
 🔭 Working on Deep Learning & Machine Learning.
 🌱 Learning about Computer Vision and Machine Learning stuff.
-🌟 Main languages: Python, MYSQL.
+🌟 Main languages: Python, MySQL, Flutter, Dart.
 ```
 <hr>
 
@@ -34,7 +34,6 @@ I-am-Nishant
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-
 </p>
 
 ## Let's Work on A Project Together!
